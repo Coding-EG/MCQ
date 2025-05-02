@@ -27,12 +27,15 @@
 ---
 
 ## Demo Video
-[Watch Demo (MP4)](https://drive.google.com/file/d/1oBFtlGzOlK8BoEf-xyxZNhFzqaK2Ql8R/view?usp=drivesdk)
+[Watch Demo (MP4)](https://drive.google.com/file/d/1oBFtlGzOIK8BoEf-xyxZNhFzqaK2Ql8R/view)
+
+https://github.com/user-attachments/assets/7fc34441-0909-4b75-8116-c1b6b0804671
+
 
 ---
 
 ## APK Download 
-[Download] (https://drive.google.com/file/d/1o7cHpSOHAt4Fl_jyrAitEdg9PpEVpb4x/view?usp=drivesdk)
+[Download] (https://drive.google.com/file/d/1o7cHpSOHAt4Fl_jyrAitEdg9PpEVpb4x/view)
 
 ---
 
